@@ -100,7 +100,7 @@ Pastikan perangkat telah terinstal:
 #### a. Clone Repository
 
 ```bash
-git clone https://github.com/[Username-GitHub-Kamu]/UAS-Kualitas-Perangkat-Lunak.git
+git clone https://https://github.com/WafiJackson/UAS-KualitasPerangkatLunak.git
 cd UAS-Kualitas-Perangkat-Lunak
 ```
 
